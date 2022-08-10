@@ -1,0 +1,13 @@
+console.log("Understand String Data Type");
+console.log("Double Quote String");
+let str_a = "Javascript";
+console.log("a=",str_a);
+console.log("Single Quote String");
+let str_b = 'HTML';
+console.log("b=",str_b);
+console.log("Backtick String");
+let str_c = `CSS`;
+console.log("c=",str_c);
+console.log("Number as String");
+let str_d = "5674";
+console.log("d=",str_d);
